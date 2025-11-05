@@ -1,0 +1,19 @@
+.head-title {
+  font-size: 36px;
+  color: #82939e;
+  font-weight: 600;
+}
+.hero-title {
+  color: #007c9d;
+  font-size: 62px;
+  font-weight: bold;
+}
+
+.form-card {
+  background-color: #fff;
+  box-shadow: 0px 0px 18px #c1d4d9;
+  padding: 20px 26px;
+  width: 346px;
+  margin-top: 100px;
+  margin-left: 150px;
+}
